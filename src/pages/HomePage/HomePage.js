@@ -4,7 +4,7 @@ import HomePageContainer from "../../components/HomePageContainer/HomePageContai
 import Footer from "../../components/Footer/Footer";
 const HomePage = () => {
   return (
-    <div>
+    <div className="100vh">
       <Header />
       <HomePageContainer />
       <Footer />

@@ -10,7 +10,7 @@ import {
 
 const Footer = () => {
   return (
-    <footer className="w-60 mx-auto row py-4">
+    <footer className="w-60 mx-auto row pt-4 pb-1">
       <div className="col-12 col-md-4 d-flex align-content-between flex-wrap">
         <div className="w-100">
           <h6>Product</h6>
@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="py-3 mx-auto">
+      <p className="pt-3 mx-auto">
         Copyright &#169; 2021 Tesseract Imaging Limited. All right reserved
       </p>
     </footer>
